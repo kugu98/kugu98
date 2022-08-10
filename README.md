@@ -1,5 +1,6 @@
 ### Tools 👋⚡
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-#181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 <!--
 **kugu98/kugu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

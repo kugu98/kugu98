@@ -1,3 +1,6 @@
+
+![kugu98 GitHub stats](https://github-readme-stats.vercel.app/api?username=kugu98&hide=contribs,prs)
+
 ### Tools 👋⚡
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
